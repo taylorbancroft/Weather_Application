@@ -6,7 +6,6 @@ import 'weather-icons/css/weather-icons.css';
 import Form from '../src/components/form.component';
 
 
-const API_key = "bcd386816c20eb7122768d5ad42f72d5";
 
 class App extends React.Component {
   constructor (){
